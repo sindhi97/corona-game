@@ -1,4 +1,3 @@
-
 function load_images(){
 	virus_Image = new Image;
 	virus_Image.src = "Assets/v1.png";
